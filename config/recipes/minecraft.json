@@ -2,12 +2,12 @@
     {
         "machine":"workbench",
         "input":{
-            "2":{"tags":["minecraft:planks"]},
-            "5":{"tags":["minecraft:planks"]},
+            "2":{"tags":["minecraft:cobbled_deepslate"]},
+            "5":{"tags":["minecraft:cobbled_deepslate"]},
             "8":{"tags":["forge:rods/wooden"]}
         },
         "output":{
-            "10":{"name":"minecraft:wooden_sword"}
+            "1":{"name":"minecraft:stone_sword"}
         }
     }
 ]
