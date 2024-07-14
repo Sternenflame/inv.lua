@@ -9,7 +9,7 @@ This software provides a lightweight, configurable inventory management and auto
 The client and server software can be downloaded from GitHub and installed onto turtles in-game using [gitget](http://www.computercraft.info/forums2/index.php?/topic/17387-gitget-version-2-release/).
 ```
 pastebin get W5ZkVYSi gitget
-gitget knector01 inv.lua master inv
+gitget Sternenflame inv.lua master inv
 cd inv
 ```
 
