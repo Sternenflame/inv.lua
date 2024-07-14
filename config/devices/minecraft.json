@@ -1,6 +1,26 @@
 [
     {
-        "type":"minecraft:furnace",
-        "purpose":"crafting"
+    "name":"minecraft:chest_7",
+    "filters":[
+        {"name":"minecraft:stone_sword"},
+        {"tags":["minecraft:stone_sword"]}
+    ],
+    "priority":2
+    },
+    {
+    "name":"minecraft:chest_9",
+    "filters":[
+        {"name":"minecraft:stone_sword"},
+        {"tags":["minecraft:stone_sword"]}
+    ],
+    "priority":2
+    },
+    {
+    "name":"minecraft:chest_10",
+    "filters":[
+        {"name":"minecraft:stone_sword"},
+        {"tags":["minecraft:stone_sword"]}
+    ],
+    "priority":2
     }
 ]
